@@ -48,6 +48,16 @@ a {
   font-weight: 300;
 }
 
+/* containers */
+
+.colored-section {
+  background-color: #ef8172;
+  color: #fff;
+}
+.white-section {
+  background-color: #fff;
+}
+
 /* Title */
 #title {
   text-align: left;
@@ -95,10 +105,6 @@ a {
 
 /* Testimonials section */
 
-#testimonials {
-  background-color: #ef8172;
-  color: #fff;
-}
 .testimonial-text {
   font-weight: 700;
   font-size: 3rem;
@@ -115,9 +121,7 @@ a {
 
 /* Press section */
 #press {
-  background-color: #ef8172;
   padding-bottom: 3%;
-  color: #fff;
 }
 .press-logo {
   width: 15%;
@@ -145,10 +149,6 @@ a {
 }
 
 /* CTA section */
-#cta {
-  background-color: #ef8172;
-  color: #fff;
-}
 
 /* footer section */
 .footer-icon {
